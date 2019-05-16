@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/statgen/static/css/main.91cb2e1a.chunk.css",
+    "main.js": "/statgen/static/js/main.33569015.chunk.js",
+    "main.js.map": "/statgen/static/js/main.33569015.chunk.js.map",
+    "runtime~main.js": "/statgen/static/js/runtime~main.1eed20e1.js",
+    "runtime~main.js.map": "/statgen/static/js/runtime~main.1eed20e1.js.map",
+    "static/js/2.0e492812.chunk.js": "/statgen/static/js/2.0e492812.chunk.js",
+    "static/js/2.0e492812.chunk.js.map": "/statgen/static/js/2.0e492812.chunk.js.map",
+    "index.html": "/statgen/index.html",
+    "precache-manifest.529099909e16debf794c9387d5879632.js": "/statgen/precache-manifest.529099909e16debf794c9387d5879632.js",
+    "service-worker.js": "/statgen/service-worker.js",
+    "static/css/main.91cb2e1a.chunk.css.map": "/statgen/static/css/main.91cb2e1a.chunk.css.map",
+    "static/media/App.css": "/statgen/static/media/denny-muller-532466-unsplash5.13b95043.png",
+    "static/media/logo.svg": "/statgen/static/media/logo.5d5d9eef.svg"
+  }
+}
